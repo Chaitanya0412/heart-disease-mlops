@@ -1,0 +1,30 @@
+{
+  "selected_model": "Logistic Regression",
+  "selection_metric": "mean cross-validation ROC-AUC",
+  "cv_roc_auc": 0.9024779568257829,
+  "metrics": {
+    "cv_accuracy": 0.8551870748299321,
+    "cv_precision": 0.8730744935655421,
+    "cv_recall": 0.8098814229249012,
+    "cv_roc_auc": 0.9024779568257829,
+    "test_accuracy": 0.8688524590163934,
+    "test_precision": 0.8125,
+    "test_recall": 0.9285714285714286,
+    "test_roc_auc": 0.9664502164502166
+  },
+  "features": [
+    "age",
+    "sex",
+    "cp",
+    "trestbps",
+    "chol",
+    "fbs",
+    "restecg",
+    "thalach",
+    "exang",
+    "oldpeak",
+    "slope",
+    "ca",
+    "thal"
+  ]
+}
